@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/CompoundCalc/static/css/main.77252cb3.chunk.css",
+    "main.js": "/CompoundCalc/static/js/main.7c875499.chunk.js",
+    "main.js.map": "/CompoundCalc/static/js/main.7c875499.chunk.js.map",
+    "runtime-main.js": "/CompoundCalc/static/js/runtime-main.ea62ac9c.js",
+    "runtime-main.js.map": "/CompoundCalc/static/js/runtime-main.ea62ac9c.js.map",
+    "static/js/2.bef7c2c7.chunk.js": "/CompoundCalc/static/js/2.bef7c2c7.chunk.js",
+    "static/js/2.bef7c2c7.chunk.js.map": "/CompoundCalc/static/js/2.bef7c2c7.chunk.js.map",
+    "index.html": "/CompoundCalc/index.html",
+    "precache-manifest.f0a463862fa2cae8af521b9dcffaba47.js": "/CompoundCalc/precache-manifest.f0a463862fa2cae8af521b9dcffaba47.js",
+    "service-worker.js": "/CompoundCalc/service-worker.js",
+    "static/css/main.77252cb3.chunk.css.map": "/CompoundCalc/static/css/main.77252cb3.chunk.css.map",
+    "static/js/2.bef7c2c7.chunk.js.LICENSE.txt": "/CompoundCalc/static/js/2.bef7c2c7.chunk.js.LICENSE.txt",
+    "static/media/Compound.css": "/CompoundCalc/static/media/numbers.8228b68f.ttf",
+    "static/media/App.css": "/CompoundCalc/static/media/QuartzoBold-W9lv.41f79afe.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea62ac9c.js",
+    "static/js/2.bef7c2c7.chunk.js",
+    "static/css/main.77252cb3.chunk.css",
+    "static/js/main.7c875499.chunk.js"
+  ]
+}

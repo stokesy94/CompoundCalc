@@ -1,0 +1,45 @@
+.header{
+    font-family: "H2";
+    text-align: center;
+    border: 5px solid black;
+    border-radius: 10px;
+    width: 40%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(72%);
+    background-color: orange;
+    font-size: 1em;
+    text-shadow: 2px 2px black
+}
+.crumpets {
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-left: 5%;
+
+}
+.littleh{
+    font-family: numbers;
+    color: black;
+
+}
+button{
+    width: fit-content;
+    min-width: fit-content;
+    height: 23px;
+    border-radius: 20px;
+    background-color: white;
+    margin-bottom: 5px;
+    font-family: numbers;
+    text-shadow: .2px .2px black;
+    cursor: pointer;
+}
+h3{
+    font-family: numbers;
+    margin: 0;
+    padding: 1%;
+    text-decoration: underline;
+    font-size: .8em;
+}

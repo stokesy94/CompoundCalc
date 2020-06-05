@@ -1,0 +1,42 @@
+html{
+    background: url(https://wallpapercave.com/wp/wp2590323.png) no-repeat repeat;
+    background-size: cover;
+}
+@font-face {
+    font-family: "Heading";
+    src: local("Heading"), url("./assets/QuartzoBold-W9lv.ttf");
+}
+
+.Heading{
+    position: relative;
+    top: 3%;
+    min-width: fit-content;
+    font-family: "H2";
+    font-size: 3em;
+    margin-left: 50%;
+    transform: translate(-50%);
+    text-align: center;
+    color: #ADFF2F;
+    text-shadow: 2px 2px black;
+    background-color: orange;
+    border: 5px solid black;
+}
+.container {
+
+    height: 100%;
+    width: 100%;
+
+}
+.innercontainer{
+    position: relative;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%);
+    height: 100%;
+    width: 70%;
+    background-color: azure;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px 1px black;
+    padding-top: 1%;
+    padding-bottom: 2%;
+}
